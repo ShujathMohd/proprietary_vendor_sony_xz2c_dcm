@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),xz2c)
+ifeq ($(TARGET_DEVICE),xz2c_dcm)
 
 endif
